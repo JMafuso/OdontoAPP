@@ -28,7 +28,7 @@ O OdontoAPP é uma plataforma inovadora que utiliza tecnologias de Machine Learn
 - Criação da API REST básica
 - Integração com Roboflow para processamento de imagens
 
-### Sprint 4 (Current) 🚀
+### Sprint 4 🚀
 - Refinamento da API e endpoints
 - Implementação completa do CRUD de pacientes
 - Integração com serviço de ML (RoboflowService)
@@ -118,6 +118,3 @@ OdontoAPP/
 - Jhemysson Moura Vieira (RM552570)
 - Robson Apparecido dos Santos (RM552858)
 - Talyta Botelho Perrotti (RM553739)
-
-## Licença
-Este projeto está sob a licença MIT.
